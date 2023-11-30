@@ -11,6 +11,14 @@
     ]
   },
   "requiredResourceAccess": [
+    // Start of SEVENP
+    {
+      "resourceAppId": "797f4846-ba00-4fd7-ba43-dac1f8f63013",
+      "resourceAccess": [
+        {"id": "41094075-9dad-400e-a0bd-54e686782033", "type": "Scope" }
+      ]
+    },
+    // End of SEVENP
     {
       "resourceAppId": "fa3d9a0c-3fb0-42cc-9193-47c7ecd2edbd",
       "resourceAccess": [
@@ -20,6 +28,12 @@
     {
       "resourceAppId": "00000003-0000-0000-c000-000000000000",
       "resourceAccess": [
+        // Start of SEVENP
+        { "id": "818c620a-27a9-40bd-a6a5-d96f7d610b4b", "type": "Scope" },
+        { "id": "6931bccd-447a-43d1-b442-00a195474933", "type": "Role" },
+        //{ "id": "c2d95988-7604-4ba1-aaed-38a5f82a51c7", "type": "Scope" },
+        { "id": "c22a92cc-79bf-4bb1-8b6c-e0a05d3d80ce", "type": "Role" },
+        // End of SEVENP
         { "id": "aa07f155-3612-49b8-a147-6c590df35536", "type": "Scope" },
         { "id": "0f4595f7-64b1-4e13-81bc-11a249df07a9", "type": "Scope" },
         { "id": "73e75199-7c3e-41bb-9357-167164dbb415", "type": "Scope" },

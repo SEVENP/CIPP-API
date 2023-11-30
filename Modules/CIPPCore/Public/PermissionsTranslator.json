@@ -1,4 +1,15 @@
 [
+  // Start of SEVENP
+  {
+    "description": "Access Azure Service Management as the signed in user",
+    "displayName": "Access Azure Service Management based on the user's role membership",
+    "id": "41094075-9dad-400e-a0bd-54e686782033",
+    "Origin": "Delegated (Azure Service Management)",
+    "userConsentDescription": "Access Azure Service Management as the signed in user",
+    "userConsentDisplayName": "Access Azure Service Management based on the user's role membership",
+    "value": "user_impersonation"
+  },
+  // End of SEVENP
   {
     "description": "Allows Exchange Management as app",
     "displayName": "Manage Exchange As Application ",
