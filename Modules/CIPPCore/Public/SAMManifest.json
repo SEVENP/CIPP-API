@@ -29,7 +29,6 @@
       "resourceAppId": "00000003-0000-0000-c000-000000000000",
       "resourceAccess": [
         // Start of SEVENP
-        { "id": "818c620a-27a9-40bd-a6a5-d96f7d610b4b", "type": "Scope" },
         { "id": "6931bccd-447a-43d1-b442-00a195474933", "type": "Role" },
         { "id": "c22a92cc-79bf-4bb1-8b6c-e0a05d3d80ce", "type": "Role" },
         // End of SEVENP
